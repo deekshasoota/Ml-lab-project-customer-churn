@@ -1,1 +1,1 @@
-# Ml-lab-project-customer-churn
+# Ml-lab-project-AI Customer Churn Predictor
